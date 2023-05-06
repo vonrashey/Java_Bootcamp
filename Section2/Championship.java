@@ -1,3 +1,5 @@
+package Section2;
+
 public class Championship {
     public static void main(String[] args) {
 

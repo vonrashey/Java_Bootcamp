@@ -1,3 +1,4 @@
+package Section2;
 public class WeatherNetwork {
     public static void main(String[] args) {
 

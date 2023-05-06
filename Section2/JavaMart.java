@@ -1,3 +1,4 @@
+package Section2;
 public class JavaMart {
     public static void main(String[] args) {
         double wallet = 100;
